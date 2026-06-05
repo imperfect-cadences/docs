@@ -1,2 +1,2 @@
-# imperfect-cadences-web
-Imperfect Cadences website and blog
+# docs
+Imperfect Cadences docs
